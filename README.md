@@ -4,4 +4,5 @@
 - 🚀 Trabalho com JavaScript, TypeScript, React, Node.js
 - 🧠 Interessado em IA aplicada à saúde
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oviniesouza&show_icons=true)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=oviniesouza&show_icons=true)
+
